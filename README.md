@@ -34,7 +34,7 @@ matlab file which is called directly from C++ to run the Matlab Command Prompt a
 C++ 17 is required for the code to run as it uses the structured bindings which is not available is earlier versions of C++.
 Eigen Library can be downloaded and included from [link](https://eigen.tuxfamily.org/index.php?title=Main_Page).
  
-![Lane Change](https://user-images.githubusercontent.com/59492146/113215452-dee85200-9248-11eb-8158-6ddd037e9c87.mp4)
+![LaneChange](https://user-images.githubusercontent.com/59492146/113218738-0857ac80-924e-11eb-8b15-53630e3efc86.gif)
 
 
 
